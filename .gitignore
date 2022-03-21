@@ -9,6 +9,7 @@ __pycache__/
 *.json
 *.gz
 *.h5
+*.eps
 
 
 # dirs

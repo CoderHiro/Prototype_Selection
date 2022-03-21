@@ -1,0 +1,16 @@
+__pycache__/
+*py[cod]
+*$py.class
+
+# files
+*.png
+*.txt
+*.csv
+*.json
+*.gz
+*.h5
+
+
+# dirs
+*output*/
+

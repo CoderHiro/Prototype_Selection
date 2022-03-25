@@ -3,14 +3,14 @@ Codes for Prototype Selection
 
 ---
 
-## 基本信息
-典型样例选取项目源码
+## Information
+Source code of papaer: Reducing Malware labeling Efforts Through Efficient Prototype Selection (ICECCS 2022)
 
-- 系统：Ubuntu 18.04（LTS）
-- 语言：python
-- 框架：Tensorflow、Keras
+- OS：Ubuntu 18.04（LTS）
+- Language：python
+- Framework：Tensorflow、Keras
 
-## 说明
-- LBP：图片特征提取
-- Classify：分类模型
-- select：典型选取模型
+## Detail
+- LBP：codes for extract features
+- Classify：Train and save the classification models
+- select：the prototype selection algorithm
